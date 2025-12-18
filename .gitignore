@@ -1,0 +1,8 @@
+# Virtual environment
+venv/
+.venv/
+
+# Python cache
+__pycache__/
+app/api/__pycache__/
+app/rag/__pycache__/
